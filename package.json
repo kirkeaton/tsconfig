@@ -1,0 +1,29 @@
+{
+  "name": "@kirkeaton/tsconfig",
+  "version": "0.0.0-development",
+  "description": "TypeScript config for my projects",
+  "author": "Kirk Eaton <contact@kirkeaton.ca>",
+  "devDependencies": {
+    "@kirkeaton/semantic-release-config": "^1.0.1",
+    "semantic-release": "^24.2.0"
+  },
+  "exports": "./tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "homepage": "https://github.com/kirkeaton/tsconfig#readme",
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "config"
+  ],
+  "license": "BSD-3-Clause",
+  "packageManager": "pnpm@9.15.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkeaton/tsconfig.git"
+  }
+}
