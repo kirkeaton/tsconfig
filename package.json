@@ -11,6 +11,7 @@
   "files": [
     "tsconfig.json"
   ],
+  "funding": "https://kirkeaton.ca/sponsor",
   "homepage": "https://github.com/kirkeaton/tsconfig#readme",
   "keywords": [
     "tsconfig",
