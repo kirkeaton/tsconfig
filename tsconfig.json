@@ -9,9 +9,9 @@
     "lib": [
       "DOM",
       "DOM.Iterable",
-      "ES2023" // Node.js 20
+      "es2023" // Node.js 20
     ],
-    "target": "ESNext",
+    "target": "esnext",
     // Modules
     "module": "node20",
     "moduleDetection": "force",
