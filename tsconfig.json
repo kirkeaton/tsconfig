@@ -4,6 +4,8 @@
     // Emit
     "declaration": true,
     "outDir": "${configDir}/dist",
+    // Interop Constraints
+    "erasableSyntaxOnly": true,
     // Language and Environment
     "jsx": "react-jsx",
     "lib": [
