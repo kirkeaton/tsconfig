@@ -9,11 +9,11 @@
     "lib": [
       "DOM",
       "DOM.Iterable",
-      "ES2022" // Node.js 18
+      "ES2023" // Node.js 20
     ],
     "target": "ESNext",
     // Modules
-    "module": "Node16",
+    "module": "node20",
     "moduleDetection": "force",
     "moduleResolution": "node16",
     "resolveJsonModule": true,
