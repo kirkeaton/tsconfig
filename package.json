@@ -3,9 +3,6 @@
   "version": "0.0.0-development",
   "description": "TypeScript config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
-  "devDependencies": {
-    "typescript": "^6.0.2"
-  },
   "engines": {
     "node": ">=20"
   },
