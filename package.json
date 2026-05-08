@@ -4,7 +4,7 @@
   "description": "TypeScript config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "files": [
     "tsconfig.json"
