@@ -15,9 +15,9 @@
     ],
     "target": "esnext",
     // Modules
-    "module": "node20",
+    "module": "nodenext",
     "moduleDetection": "force",
-    "moduleResolution": "node16",
+    "moduleResolution": "nodenext",
     "resolveJsonModule": true,
     "rewriteRelativeImportExtensions": true,
     "rootDir": "${configDir}/src",
